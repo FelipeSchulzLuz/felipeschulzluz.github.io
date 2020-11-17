@@ -10,5 +10,6 @@ var flkty = new Flickity( elem, {
   fullscreen: true,
   adaptiveHeight: true,
   imagesLoaded: true,
+  bgLazyLoad: 2
 });
 
